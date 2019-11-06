@@ -25,4 +25,4 @@ bot.on('message', message =>{
     }
 });
 
-bot.login(NjQxNDkzMTY3NzM2MjI1ODAy.XcJfUA.0Azt9JLOHznxjPv_EkMn8TfK8JQ)
+bot.login('NjQxNDkzMTY3NzM2MjI1ODAy.XcJfUA.0Azt9JLOHznxjPv_EkMn8TfK8JQ')
